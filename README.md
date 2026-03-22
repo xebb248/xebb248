@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 👋 Hi, I'm Xavier
 
-Graduate student in Civil Engineering with a focus on Geotechnical Engineering—basically, I spend a lot of time thinking about how soil behaves when nature (or engineers) push it to its limits.
+Graduate student in Civil & Environmental Engineering with a focus on Geotechnical Engineering—basically, I spend a lot of time thinking about how soil behaves when nature (or engineers) push it to its limits.
 
 💻 Side quest: programming
 
